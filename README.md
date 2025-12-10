@@ -42,7 +42,7 @@ The comparison revealed that the two workflows, despite sharing the same core lo
 
 ### Final Risk Index Comparison
 
-| Feature | Manual Weighted Overlay Output (e.g., `Health_Risk_Index1.png`) | Automated Python Output (e.g., `Health_Risk_Index2.png`) | Reliability Implication |
+| Feature | Manual Weighted Overlay Output | Automated Python Output | Reliability Implication |
 | :--- | :--- | :--- | :--- |
 | **Spatial Pattern** | **Continuous & Coherent:** Shows a clear, continuous high-risk zone along the urban and coastal corridor, accurately reflecting clustered industry and roads. | **Fragmented & Scattered:** Displays isolated high-risk patches with large unclassified areas, failing to reflect the true regional pattern. | **Manual is More Realistic.** Fragmentation suggests issues with spatial aggregation in the script |
 | **Value Range** | **Wide Dynamic Range:** Values range from **1.6 to 3.0**. | **Narrow Range:** Values range from **2.0 to 2.4**. | **Manual is More Actionable.** Narrow range in Python under-represents the true cumulative risk, masking severe exposure. |
