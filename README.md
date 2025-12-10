@@ -68,17 +68,3 @@ To fully leverage the efficiency of automation without compromising spatial accu
 * **Action:** Utilize the high-accuracy manual output to prioritize **environmental monitoring** and **public health resource allocation** in the designated high-risk zones (close to industrial areas and busy roads).
 
 ---
-
-## 5. Repository Files
-
-| File Name | Description | Source Reference (Programming Document) |
-| :--- | :--- | :--- |
-| `programming project .docx` | Full project report, methodology, and detailed comparison analysis (Abstract, Sections 1-9). [cite_start]| [cite: 170-320] |
-| `Milestone1_Aldarmaki_Maitha..pdf` | Initial project proposal and problem definition. [cite_start]| [cite: 321-338] |
-| `Health_Risk_Index1.png` / `ArcGIS1.png` | **Validated Final Map:** Health Risk Index from the Manual/Software workflow (Value 1.6-3.0). | [cite_start]Figure 4/5 [cite: 233, 234] |
-| `Health_Risk_Index2.png` / `ArcPy1.png` | Automated Final Map: Health Risk Index from the Python script (Value 2.0-2.4). | [cite_start]Figure 7 [cite: 247] |
-| `ArcGIS.png` | Reclassified Population Density Map (Manual/Accurate Input). | [cite_start]Figure 1 [cite: 216] |
-| `ArcPy.png` | Reclassified Population Density Map (Python/Distorted Input). | [cite_start]Figure 4 (in comparison section) [cite: 264] |
-| `Roads_density.png` | Road Density Layer (Input Factor). | [cite_start]Figure 3 [cite: 218] |
-| `Screenshot 2025-12-06 at 6.59.36 pm.png` | Industrial Activity Reclassification Layer (Input Factor). | [cite_start]Figure 2 [cite: 217] |
-| `new-census-chart-29Jan17b.png` | Sharjah 2015 Census Data (Ground-Truth Validation Reference). [cite_start]| [cite: 269] |
