@@ -6,7 +6,7 @@ This repository documents a project focused on developing and validating a spati
 
 * **Study Area:** Emirate of Sharjah, UAE 
 * **Core Method:** GIS-based Weighted Overlay Analysis
-* [cite_start]**Primary Goal:** Identify high-risk zones driven by multiple environmental stressors for targeted policy intervention.
+* **Primary Goal:** Identify high-risk zones driven by multiple environmental stressors for targeted policy intervention.
 
 ---
 
