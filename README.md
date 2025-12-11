@@ -27,7 +27,7 @@ The model integrated the following three primary factors, all reclassified into 
 1.  **Population Density:** Derived from WorldPop data.
 2.  **Industrial Activity:** Derived from Sharjah Municipality datasets.
 3.  **Road Density:** Derived from major road datasets (ArcGIS and OpenStreetMap).
-    (Note: Initial planning also considered Aerosol Optical Depth (AOD) as a factor).*
+(Note: Initial planning also considered Aerosol Optical Depth (AOD) as a factor).
 
 ### Workflow Comparison
 The study performed the Weighted Overlay using two distinct workflows:
