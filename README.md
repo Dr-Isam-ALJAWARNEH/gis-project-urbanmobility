@@ -68,3 +68,28 @@ To fully leverage the efficiency of automation without compromising spatial accu
 * **Action:** Utilize the high-accuracy manual output to prioritize **environmental monitoring** and **public health resource allocation** in the designated high-risk zones (close to industrial areas and busy roads).
 
 ---
+
+## 5. Repository Structure
+
+The project files are organized into the following folders for clarity and ease of access:
+
+| Folder / File Name | Description | Source Reference (Programming Document) |
+| :--- | :--- | :--- |
+| **Code/** | Contains the automated GIS script (Python Toolbox). | |
+| ├── `healthrisktool.pyt` | **The Automated Tool:** Python Toolbox for ArcGIS Pro containing the logic for reclassification and weighted overlay. | |
+| **Datasets/**| Contains the key input raster data used in the analysis. | |
+| **Project_Presentation/** | Contains the slides used for defending the project. | |
+| ├── `Project_Presentation.pdf` | The full slide deck summarizing the project, methodology, and findings. | |
+| **Project_Report/** | Contains the final written documentation of the project. | |
+| ├── `programming project.docx` | **The Final Report:** Complete written document including Abstract, Methodology, Results, and Conclusions. | (Full Report) |
+| ├── **References/** | Initial project proposal, topic selection, and problem definition. | |
+| **Datasets/** → **Ground_Truth_Maps/** | Contains all data for validation of the project. |
+| ├── `Health_Risk_Index.png` and `Health_Risk_Index(WO).jpg` | **Validated Final Map:** Health Risk Index from the Manual/Software workflow. | Figure 4&5 (Report) |
+| ├── `Population_Density.png` |  Manual Population Density Input. | Figure 1 (Report) |
+| ├── `Roads_density.png` | Intermediate Output: Road Density Reclassified Layer. | Figure 3 (Report) |
+| ├── `Industrial.png`| Industrial Reclassification Input Layer. | Figure 2 (Report) |
+| **Datasets/** → **Outputs/** | Contains all the outputs of the project. |
+| ├── `Final_Health_Risk_Index.pdf` | Final Output from the Automated (Python) Script (shows fragmented results). | Figure 8&12 (Report) |
+| ├── `Population_Density.pdf` | Comparison Image: Python Population Density Input. | Figure 9 (Report) |
+| ├── `Roads.pdf` | Python Roads Input. | Figure 11 (Report) |
+| `README.md` | This document, outlining the project goals and structure. | |
