@@ -26,7 +26,7 @@ A **Weighted Overlay** technique was used to merge reclassified input layers int
 The model integrated the following three primary factors, all reclassified into standardized impact levels (low, medium, and high):
 1.  **Population Density:** Derived from WorldPop data.
 2.  **Industrial Activity:** Derived from Sharjah Municipality datasets.
-3.  [cite_start]**Road Density:** Derived from major road datasets (ArcGIS and OpenStreetMap).
+3.  **Road Density:** Derived from major road datasets (ArcGIS and OpenStreetMap).
     (Note: Initial planning also considered Aerosol Optical Depth (AOD) as a factor).*
 
 ### Workflow Comparison
